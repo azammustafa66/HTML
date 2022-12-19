@@ -7,6 +7,7 @@ h1 {
 }
 h3 {
     color: #439A97;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 hr {
     background-color: white;
@@ -20,5 +21,5 @@ img {
     height: 200px;
 }
 .p1 {
-    font-family: cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
